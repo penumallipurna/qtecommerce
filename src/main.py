@@ -15,3 +15,6 @@ def isvalid();
 
 def mypasswd();
     pass
+
+def login_with_google():
+    pass
