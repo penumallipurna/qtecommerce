@@ -8,3 +8,6 @@ def logout();
 
 def is_tata_emp();
     pass
+    
+def isvalid();
+    pass
