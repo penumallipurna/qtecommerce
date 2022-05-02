@@ -18,3 +18,6 @@ def mypasswd();
 
 def login_with_google():
     pass
+
+def login_with_facebook():
+    pass
