@@ -6,8 +6,12 @@ def login():
 def logout();
     pass
 
+
 def is_tata_emp();
     pass
     
 def isvalid();
+    pass
+
+def mypasswd();
     pass
