@@ -5,3 +5,6 @@ def login():
 
 def logout();
     pass
+
+def isvalid();
+    pass
